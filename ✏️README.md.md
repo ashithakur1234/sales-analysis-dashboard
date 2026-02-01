@@ -38,4 +38,14 @@ This project analyzes sales data using Python and Power BI to generate business 
 Aashi Thakur  
 BCA | Aspiring Data Analyst
 
+## 📸 Dashboard Preview
+
+[Dashboard Page 1](dashboard1.png)
+[Dashboard Page 2](dashboard2.png)
+[Dashboard Page 3](dashboard3.png)
+[Dashboard Page 4](dashboard4.png)
+
+
+
+
 
