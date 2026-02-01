@@ -1,39 +1,39 @@
-## Sales Analysis Dashboard (Power BI)
+# 📊 Sales Analysis Dashboard (Power BI)
 
-##  Project Overview
-This project analyzes sales data to find business insights using Python and Power BI.
+## 📌 Overview
+This project analyzes sales data using Python and Power BI to generate business insights and interactive dashboards.
 
-## Objectives
+## 🎯 Objectives
 - Analyze total sales and profit
-- Find top products and regions
-- Understand customer behavior
-- Identify loss-making areas
-- Create interactive dashboard
+- Identify top products and regions
+- Study customer behavior
+- Detect loss-making products
+- Support business decision-making
 
-##  Tools Used
+## 🛠 Tools & Technologies
 - Python (Pandas, Matplotlib)
 - Power BI
 - Excel / CSV
 - GitHub
 
-##  Key Analysis
+## 📈 Key Analysis
 - Region-wise profit
-- Category performance
-- Top customers
+- Category-wise performance
 - Discount impact
-- Pareto (80/20 rule)
+- Pareto analysis (80/20 rule)
+- Customer analysis
 
-## Dashboard Pages
+## 📊 Dashboard Pages
 1. Executive Summary
 2. Detailed Analysis
 3. Customer & Strategy
 4. Insights & Recommendations
 
-## Files
-- Sales_Dashboard.pbix → Power BI dashboard
-- Data/Sales.csv.csv → Dataset
-- analysis.ipynb → Python analysis
+## 📁 Project Files
+- `dashboard.pbix` → Power BI dashboard
+- `sales.csv` → Dataset
+- `analysis.ipynb` → Python analysis
 
-## Created By
+## 👩‍💻 Author
 Aashi Thakur  
-BCA | Data Analyst Aspirant
+BCA | Aspiring Data Analyst
