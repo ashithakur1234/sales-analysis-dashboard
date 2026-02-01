@@ -37,3 +37,5 @@ This project analyzes sales data using Python and Power BI to generate business 
 ## 👩‍💻 Author
 Aashi Thakur  
 BCA | Aspiring Data Analyst
+
+
